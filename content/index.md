@@ -2,7 +2,7 @@
 
 Welcome to **Nardo Dragon's** XBC3 Notes! 
 
-![Nardo](https://raw.githubusercontent.com/NardoDragon/XBC3-flowershow/main/public/assets/20230821193816.png)
+![Nardo](https://raw.githubusercontent.com/NardoDragon/NardoNotes/main/content/assets/cumForHim.png)
 
 ## Sessions
 
@@ -21,7 +21,7 @@ He separates his notes into **[[Sessions/index|Sessions]]**, these are a 1-to-1 
 
 Nardo uses [Obsidian](https://obsidian.md/) to keep track of his notes and publishes using [Flowershow](https://flowershow.app/) to turn his notes into a website
 
-Here is a link to the [Github Page](https://github.com/NardoDragon/XBC3-flowershow/tree/main/content) if you would like to see how the Obsidian Project is set up ^^
+Here is a link to the [Github Page](https://github.com/NardoDragon/NardoNotes) if you would like to see how the Obsidian Project is set up ^^
 
 # !cum
 - https://www.twitch.tv/nardodragon
