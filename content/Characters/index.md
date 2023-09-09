@@ -20,7 +20,6 @@
 
 ## H
 - [[Hackt]]
-- [[Hoope]]
 
 ## I
 - [[Isurd]]
