@@ -1,5 +1,6 @@
 # The Theater
 - Filled with *Mystery*
+- WE are the movie. THEY are watching us.
 ## Aesthetics
 - Horns
 	- "It's all about the skinfeel"
