@@ -7,6 +7,7 @@
 - In *9th Term*
 - Doubtful that [[Colony 9]] can hit Silver Rank?
 	- We don't know *why* he feels this way atm
+- Had a conversation with [[Mio]] in Tableland (lmao) while looking at Armu's that they were getting old...
 ## [[Off-Seer]]
 - Wants to learn to play his own melodies on the flute... Not JUST Off-Seer tunes
 - Sent [[Consul K]] after his defeat
