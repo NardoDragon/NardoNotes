@@ -9,6 +9,7 @@
 ## C
 - [[Cammuravi]]
 - [[Consul K]]
+- [[Consul Q]]
 
 ## E
 - [[Ethel]]
@@ -16,6 +17,7 @@
 
 ## G
 - [[Garvel]]
+- [[Gray]]
 - [[Guernica]]
 
 ## H
