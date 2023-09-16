@@ -11,3 +11,4 @@
 ## Quotes
 
 > "Sometimes... [[Noah|He's]] just too kind."
+
