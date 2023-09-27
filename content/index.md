@@ -2,7 +2,7 @@
 
 Welcome to **Nardo Dragon's** XBC3 Notes! 
 
-![[cumForHim.png]]
+![Cum For Him](https://raw.githubusercontent.com/NardoDragon/NardoNotes/main/public/assets/cumForHim.png)
 
 ## Sessions
 
@@ -17,6 +17,7 @@ He separates his notes into **[[Sessions/index|Sessions]]**, these are a 1-to-1 
 - [[7 - XBC3 - 2023-09-02]]
 - [[8 - XBC3 - 2023-09-04]]
 - [[9 - XBC3 - 2023-09-09]]
+- [[10 - XBC3 - 2023-09-16]]
 
 ## This Project
 
