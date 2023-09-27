@@ -4,7 +4,7 @@
 - Uses Rings just like [[Nia]] did :3
 	- Has a flesh-eater core crystal too…
 - JOURNAL HAVER
-- ![[Mio Journal.png]]
+- ![Mio Journal](https://raw.githubusercontent.com/NardoDragon/NardoNotes/main/public/assets/Mio%20Journal.png)
 
 	- ^ About to hit [[Homecoming]]… 3 Months left as of [[4 - XBC3 - 2023-08-18]]
 - Can't handle heat...
