@@ -1,7 +1,7 @@
 # Consul K
 
 - They were [[Consul]] to both [[Keves]] and [[Agnus]]
-- ![[Consul K.png]]
+- ![Consul K](https://raw.githubusercontent.com/NardoDragon/NardoNotes/main/public/assets/Consul%20K.png)
 - Cape
 - Red Infinity Eye
 	- All of [[The Theater]] members might have this?
