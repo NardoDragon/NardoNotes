@@ -1,0 +1,4 @@
+- Has a sick Sword and Shield!
+- [[Colony 9]]
+- Rebels against [[Consul B]]
+	- Works with the main cast to take them out
