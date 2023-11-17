@@ -7,7 +7,9 @@
 - ![Mio Journal](https://raw.githubusercontent.com/NardoDragon/NardoNotes/main/public/assets/Mio%20Journal.png)
 
 	- ^ About to hit [[Homecoming]]… 3 Months left as of [[4 - XBC3 - 2023-08-18]]
+	- 2 months left as of [[16 - XBC3 - 2023-10-28]]
 - Can't handle heat...
+- Trades her flute with [[Noah]] as of [[16 - XBC3 - 2023-10-28]]
 
 ## [[Alfreto Valley]]
 - Fought with [[Noah]] one on one here
