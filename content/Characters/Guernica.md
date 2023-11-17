@@ -10,6 +10,7 @@ aliases: [Geurnia Vandham]
 - Sent by [[Noah]] and [[Mio]] performing a Duet…
 ## Mysterious Girl
 - On [[4 - XBC3 - 2023-08-18]] there was a girl who came and picked up his eyepatch?
+- We saw her again on [[17 - XBC3 - 2023-11-03]], seeing us head towards the capital?
 ## Quotes
 > Do you have any idea who the real enemy is?
 
