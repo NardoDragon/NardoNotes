@@ -2,6 +2,7 @@
 
 ## A
 - [[Agnian Queen]]
+- [[Ashera]]
 
 ## B
 - [[Bolearis]]
@@ -9,6 +10,7 @@
 ## C
 - [[Cammuravi]]
 - [[Consul K]]
+- [[Consul N]]
 - [[Consul Q]]
 
 ## E
@@ -22,12 +24,14 @@
 
 ## H
 - [[Hackt]]
+- [[Hoope]]
 
 ## I
 - [[Isurd]]
 
 ## J
 - [[Joran]]
+- [[Juniper]]
 
 ## K
 - [[Kite]]
@@ -39,6 +43,7 @@
 ## M
 - [[Manana]]
 - [[Mio]]
+- [[Miyabi]]
 - [[Moebius]]
 - [[Mwamba]]
 
