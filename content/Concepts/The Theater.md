@@ -15,17 +15,20 @@
 - D
 	- [[Moebius]]
 	- Furred Collar
-- P
-	- Tall Helmet
-- J
 - H
 	- Wiped out [[Colony 8]]
+- J
+- [[Consul K]]
+- N
+	- Doesn't like how the Consul's play with poeple's lives?
+- P
+	- Tall Helmet
 - Z
 	- *NOT* in a Pink suit, didn't see their whole face
 	- Purple Horns
 	- Cracked Lips
-- [[Consul K]]
-- ?
+- X
 	- X on the chest in the shadows
+	- X is a [[Moebius]] but NOT a [[Consul]]
 - ?
 	- Standing next to the above
