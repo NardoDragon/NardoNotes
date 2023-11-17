@@ -3,6 +3,7 @@
 - Cool healer person from [[Agnus]], [[Mio]]’s party member
 - [[Mondo]]: What his paper crane things are called
 - Had the realization that the red eyes of the Colony are like [[Moebius]]
+- Looks up to commander [[Isurd]] of [[Colony Lambda]]
 
 ## Past
 - Has been a strategist for a while
@@ -10,6 +11,7 @@
 - Was given a clock unaffected by the [[Black Fog]] by [[Nimue]]
 	- She taught him Strategy / Mondo
 	- Gave him a photo of a [[Saffronia Tree]]
+	- [[Isurd]] would like us to bury the clock there
 
 ## Desert
 - Suggests the team goes West
