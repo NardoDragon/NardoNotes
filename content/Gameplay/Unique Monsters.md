@@ -5,3 +5,4 @@
 ![Househunter Carly](https://raw.githubusercontent.com/NardoDragon/NardoNotes/main/public/assets/Unique%20Monster%201.png)
 
 - [ ] ^ Level 21 - Househunter Carly
+- [ ] ![[Pasted image 20230927221837.png]]
