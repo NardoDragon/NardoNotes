@@ -1,2 +1,2 @@
 # Colony Lambda
-- Where [[Isurd]] rules?
+- Where [[Isurd]] rules
