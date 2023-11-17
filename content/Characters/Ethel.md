@@ -12,7 +12,13 @@ aliases: [Silvercoat, Silvercoat Ethel]
 ## Colony 4
 - Going to make a report about the dead [[Consul K]] and the [[Flame Clock]]
 	- Going to say it was an 'accident'...
-	- 
+
+## Castle
+- Meets with the [[Kevesi Queen]]
+- Was given a new [[Ferronis]] to take us ouet...
+	- Is happy to use *lethal force*...
+- Says the [[Ouroborous]] is hope personified
+- Dies on the battlefield fighting [[Cammuravi]]. Exactly what she wanted.
 
 > "Nice Blade you got" -> [[Noah]]
 
